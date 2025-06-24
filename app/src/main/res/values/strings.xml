@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoggoLingo</string>
+    <string name = "who">\"Who\'s a good boy?\"</string>
+    <string name = "how">How do you say \"I am\"?</string>
+</resources>
